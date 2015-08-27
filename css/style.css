@@ -1,0 +1,11 @@
+.ejivusko header nav ul {
+  display: block;
+  margin: 20px auto;
+  padding: 0;
+}
+.ejivusko header nav ul li {
+  display: inline;
+}
+.ejivusko img {
+  width: 100%;
+}
